@@ -1,9 +1,4 @@
-/* Comp 282
-  Project 3 Instructor's SAMPLE Test Case
-  Actual Instructor Test Case will be different.
-  For example, it will use different numbers or even a different 
-    Comparable type
-*/
+
 
 
 public class InstructorTestCaseP3

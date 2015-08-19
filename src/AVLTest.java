@@ -1,7 +1,5 @@
 /*
 Harout Ter-Papyan
-Comp 282
-Project 3
 AVLTest.java
 */
 
